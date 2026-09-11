@@ -15,5 +15,6 @@ public class GroundCheck : MonoBehaviour
     {
         isGrounded = false;
 	//hejsan fast bättre!	
+    //yoyo
     }
 }
